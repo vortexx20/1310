@@ -1,0 +1,13 @@
+<!-- search.html -->
+<html>
+<head>
+<title> searching a name</title>
+</head>
+<body>
+<form method="post" action="search.php">
+<label for="inputname">Enter Name:</label>
+<input type="text" id="inputname" name="inputname" />
+<input type="submit" value="Search" />
+</form>
+</body>
+</html>

@@ -1,0 +1,14 @@
+<contacts>
+<person>
+<name>John Doe</name>
+<email>john@example.com</email>
+</person>
+<person>
+<name>Jane Smith</name>
+<email>jane.smith@example.org</email>
+</person>
+<person>
+<name>T.BABU</name>
+<email>babu@rrc.ac.in</email>
+</person>
+</contacts>
